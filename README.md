@@ -1,2 +1,2 @@
-# Dapp_project
-This folder contains my dapp projects I made since December 2022 so lesgoo and check out
+# Dapp_project_1
+This folder contains my first dapp on elections 
